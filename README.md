@@ -48,7 +48,7 @@ Con las lentes de Manovich, IKEA Place muestra:
 - **Transcodificación**: el espacio físico se transforma en entorno interactivo digital.
 
 ### Imagen ilustrativa  
-![IKEA Place](https://images.ctfassets.net/8cd2csgvqd3m/3RQxZkxn4EkoKOuiIoiYmC/e69b52a7b6f2251d43d6507d034e82c5/ikea_place.jpg)
+![IKEA Place](./IKEA-Place-app-.jpg)
 
 ### Video explicativo  
 [🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=ykYDnzJ7K5s)
