@@ -51,7 +51,7 @@ Con las lentes de Manovich, IKEA Place muestra:
 ![IKEA Place](./ikea.jpg)
 
 ### Video explicativo  
-[🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
+[🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=UudV1VdFtuQ&ab_channel=IKEA)
 
 ### Reflexión
 
@@ -84,7 +84,7 @@ Amazon Go representa un cambio radical en la forma de comprar. Se trata de tiend
 ![IKEA Place](./amazon.jpg)
 
 ### Video demostrativo  
-[🔗 Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc)
+[🔗 Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
 
 ### Reflexión
 
