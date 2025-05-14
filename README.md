@@ -51,7 +51,7 @@ Con las lentes de Manovich, IKEA Place muestra:
 ![IKEA Place](./ikea.jpg)
 
 ### Video explicativo  
-[🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=ykYDnzJ7K5s)
+[🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
 
 ### Reflexión
 
