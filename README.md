@@ -85,7 +85,7 @@ Amazon Go representa un cambio radical en la forma de comprar. Se trata de tiend
 ![IKEA Place](./amazon.jpg)
 
 ### Video demostrativo  
-[🔗 Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
+[🔗 Ver Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
 
 ### Reflexión
 
