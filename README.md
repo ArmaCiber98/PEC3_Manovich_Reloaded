@@ -19,7 +19,7 @@ Este ensayo está redactado con un enfoque narrativo y personal, siguiendo el es
 He seleccionado dos casos que considero especialmente significativos:
 
 - **IKEA Place**, una app que convierte tu casa en un showroom digital gracias a la realidad aumentada.
-- **Amazon Go**, un concepto revolucionario de tienda sin cajeros, impulsada por sensores, visión artificial y aprendizaje automático.
+- **Amazon Go**, un concepto revolucionario de tienda sin cajeros, impulsada por sensores, visión artificial y aprendizaje automático en el servicio.
 
 Ambos casos permiten analizar cómo el software redefine la interacción entre lo físico y lo digital, y cómo la experiencia cotidiana se vuelve más fluida, automática e invisible de ver. Este trabajo no solo pretende describir estos ejemplos, sino también **reflexionar críticamente sobre su impacto**, sus implicaciones sociales y su relación con los principios del software definidos por Manovich.
 
@@ -58,6 +58,12 @@ Con las lentes de Manovich, IKEA Place muestra:
 
 Esta app me parece un ejemplo perfecto de cómo el software deja de ser un medio para convertirse en parte del entorno. Ya no es mirar un catálogo; es sentir cómo encaja ese mueble en tu realidad. Además, empodera al usuario como diseñador de su propio espacio, de forma intuitiva y sin necesidad de conocimientos técnicos.
 
+Pero hay algo más. IKEA Place también refleja el deseo de inmediatez y personalización que define la cultura digital contemporánea. El hecho de poder "probar" muebles sin mover uno solo, desde el sofá, es una metáfora de lo que el software nos ofrece: un mundo que se adapta a nosotros, en lugar de que nosotros nos adaptemos a él.
+
+En ese sentido, el acto de comprar deja de ser una transacción para convertirse en una experiencia inmersiva. Nos invita a jugar, explorar, experimentar. Y eso genera un tipo de compromiso emocional con el producto que va mucho más allá del consumo racional. Lo digital aquí no sustituye lo físico: lo enriquece, lo transforma.
+
+Sin embargo, también podríamos cuestionar si esta hiperpersonalización no nos está aislando. ¿Y si nos acostumbramos tanto a experiencias digitales hechas “a medida” que luego lo real nos resulta incómodo o decepcionante? Es una reflexión que, creo, no podemos dejar de lado.
+
 ---
 
 ## Caso 2: Amazon Go – El supermercado sin cajas (ni pausas)
@@ -91,13 +97,22 @@ Amazon Go representa un cambio radical en la forma de comprar. Se trata de tiend
 
 Lo más sorprendente de Amazon Go es cómo hace desaparecer el proceso de compra. No es solo más rápido; es más fluido, casi mágico. Pero esa fluidez tiene un coste: renunciar a parte de nuestra privacidad. ¿Hasta qué punto estamos dispuestos a ser rastreados en cada paso, a cambio de comodidad? Es una pregunta que el software también nos obliga a hacernos.
 
+En un plano más filosófico, Amazon Go nos enfrenta a la idea de "lo invisible". Cuanto más eficiente es el software, menos lo notamos. Pero su presencia está ahí, registrándolo todo. Esa aparente desaparición es lo que lo hace tan poderoso: se convierte en una infraestructura silenciosa que modela comportamientos, hábitos y decisiones.
+
+Este tipo de hibridación –la tienda física que funciona como si fuera una interfaz digital– abre posibilidades inmensas, pero también nos deja en una zona gris ética. ¿Qué pasa con los trabajadores que antes cobraban en caja? ¿Y con los datos que se recopilan de cada cliente? El software nos da eficiencia, pero también nos plantea dilemas que no son técnicos, sino humanos.
+
+En resumen, Amazon Go no es solo innovación; es síntoma. Es un reflejo de hacia dónde vamos como sociedad: hacia experiencias cada vez más automáticas, más optimizadas... y, tal vez, más despersonalizadas.
+
 ---
 
 ## Conclusión
+Los dos casos analizados comparten un elemento clave: la fusión perfecta entre lo físico y lo digital, donde el software ya no se percibe como un añadido, sino como el motor mismo de la experiencia. IKEA Place transforma la compra en un juego de diseño doméstico, mientras que Amazon Go convierte el acto de consumir en algo tan natural que parece que la tecnología desaparece.
 
-Los dos casos analizados comparten un elemento clave: **la fusión perfecta entre lo físico y lo digital**, donde el software ya no se percibe como un añadido, sino como el motor mismo de la experiencia. IKEA Place transforma la compra en un juego de diseño doméstico, mientras que Amazon Go convierte el acto de consumir en algo tan natural que parece que la tecnología desaparece.
+Esta es, quizá, la mayor aportación del software contemporáneo: hacerse invisible a la vez que reconfigura la realidad. Y, como nos recuerda Manovich, esa transformación no es solo técnica, sino cultural. Lo que está en juego no es solo cómo usamos las herramientas, sino cómo vivimos en un mundo definido por ellas.
 
-Esta es, quizá, la mayor aportación del software contemporáneo: **hacerse invisible a la vez que reconfigura la realidad**. Y, como nos recuerda Manovich, esa transformación no es solo técnica, sino cultural. Lo que está en juego no es solo cómo usamos las herramientas, sino **cómo vivimos en un mundo definido por ellas**.
+Además, ambos casos muestran que el software no es neutral. Tiene ideología, tiene consecuencias, moldea formas de estar en el mundo. IKEA Place promueve una estética minimalista, ordenada, basada en la lógica del diseño escandinavo y la individualización. Amazon Go, por su parte, nos propone una sociedad sin fricciones... pero también sin rostros.
+
+Por eso este análisis no busca sólo admirar la tecnología, sino también preguntarnos críticamente qué tipo de futuro estamos construyendo con ella. Y ahí es donde el legado de Manovich sigue siendo vigente: no basta con entender el software como código. Hay que entenderlo como cultura.
 
 ---
 
@@ -109,4 +124,4 @@ Esta es, quizá, la mayor aportación del software contemporáneo: **hacerse inv
 - YouTube IKEA(2017). *Introducing Amazon Go*. https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista  
 - YouTube ElEconomista(2018). *Saluda a IKEA Place*. https://www.youtube.com/watch?v=UudV1VdFtuQ&ab_channel=IKEA
 
-
+### FIN
