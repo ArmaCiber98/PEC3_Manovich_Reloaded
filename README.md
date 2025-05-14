@@ -10,26 +10,27 @@
 
 ## Introducción
 
-En la actualidad, hablar de software no es solo hablar de herramientas. Es hablar de una forma de entender y transformar el mundo. Lev Manovich, en su obra *El software toma el mando*, ya lo anticipaba: el software no solo media nuestras experiencias, sino que también **las moldea, las automatiza y las redefine**. Lo que antes era un proceso físico o humano, hoy puede estar guiado por algoritmos, cámaras, sensores, interfaces y realidades mezcladas.
+En la actualidad, hablar de software no es solo hablar de herramientas o tencologia. Es hablar de una forma de entender y transformar nuestro mundo. Lev Manovich, en su obra *El software toma el mando*, ya lo anticipaba: el software no solo media nuestras experiencias, sino que también **las moldea, las automatiza y las redefine**. Lo que antes era un proceso físico o humano, hoy puede estar guiado por algoritmos, cámaras, sensores, interfaces y realidades mezcladas que nos facilitan en muchos de los casos nuestras vidas.
 
-En esta práctica, se propone **profundizar en el concepto de hibridación**, entendido como la fusión entre diferentes medios, disciplinas y tecnologías para crear nuevas formas de experiencia cultural y social. El objetivo es identificar dos ejemplos contemporáneos de hibridación que no aparecen en la obra de Manovich, pero que perfectamente podrían incluirse en una segunda edición de su libro.
+En esta práctica, se propone **profundizar en el concepto de hibridación**, entendido como la fusión entre diferentes medios, disciplinas y tecnologías para crear nuevas formas de experiencia cultural y social. El objetivo es identificar dos ejemplos contemporáneos de hibridación que no aparecen en la obra de Manovich, pero que perfectamente podrían incluirse en una de sus obras.
 
-Este ensayo está redactado con un enfoque narrativo y personal, siguiendo el estilo de cultura compartida que defiende la filosofía Creative Commons. Además, el documento ha sido publicado en un repositorio abierto de GitHub como parte de una metodología colaborativa, propia del *crowdsourcing* y del trabajo colectivo que ha impulsado la creación del software libre.
+Este ensayo está redactado con un enfoque narrativo y personal, siguiendo el estilo de cultura compartida que defiende la filosofía Creative Commons. Además, el documento ha sido publicado en un repositorio abierto de GitHub como parte de una metodología colaborativa, propia del crowdsourcing y del trabajo colectivo que ha impulsado la creación del software libre.
 
 He seleccionado dos casos que considero especialmente significativos:
 
 - **IKEA Place**, una app que convierte tu casa en un showroom digital gracias a la realidad aumentada.
 - **Amazon Go**, un concepto revolucionario de tienda sin cajeros, impulsada por sensores, visión artificial y aprendizaje automático.
 
-Ambos casos permiten analizar cómo el software redefine la interacción entre lo físico y lo digital, y cómo la experiencia cotidiana se vuelve más fluida, automática e invisible. Este trabajo no solo pretende describir estos ejemplos, sino también **reflexionar críticamente sobre su impacto**, sus implicaciones sociales y su relación con los principios del software definidos por Manovich.
+Ambos casos permiten analizar cómo el software redefine la interacción entre lo físico y lo digital, y cómo la experiencia cotidiana se vuelve más fluida, automática e invisible de ver. Este trabajo no solo pretende describir estos ejemplos, sino también **reflexionar críticamente sobre su impacto**, sus implicaciones sociales y su relación con los principios del software definidos por Manovich.
 
 ---
 
-## Caso 1: IKEA Place – Tu casa como probador virtual
+## Caso 1: IKEA Place – Tu casa como probador virtual desde la APP
 
 ### ¿Qué es?
 
-IKEA Place es una aplicación móvil de realidad aumentada que permite al usuario visualizar cómo quedarían distintos muebles en su casa, en tamaño real, utilizando simplemente la cámara del móvil. No es solo una herramienta de compra: es una experiencia de diseño interactivo, inmediata e inmersiva.
+IKEA Place es una aplicación móvil de realidad aumentada que permite al usuario visualizar cómo quedarían distintos muebles en su casa, en tamaño real, utilizando simplemente la cámara del móvil. No es solo una herramienta de compra: es una experiencia de diseño interactivo, inmediata e inmersiva. Faclita el saberc como quedarian esos muebeles en
+nuestra casa sin necesidad de trasladarlos y armarlos, con un clic sabremos si nos gusta o no.
 
 ### Hibridación presente
 
@@ -42,10 +43,10 @@ IKEA Place es una aplicación móvil de realidad aumentada que permite al usuari
 ### Análisis con Manovich
 
 Con las lentes de Manovich, IKEA Place muestra:
-- **Modularidad**: cada mueble es un módulo interactivo independiente.
-- **Automatización**: la app mide el espacio y ajusta los objetos sin intervención manual.
-- **Variabilidad**: la experiencia se adapta a cada casa y usuario.
-- **Transcodificación**: el espacio físico se transforma en entorno interactivo digital.
+- **Modularidad**: cada mueble es un módulo interactivo independiente y ajustable.
+- **Automatización**: la app mide el espacio y ajusta los objetos sin intervención manual dejando todo al mando de la tecnologia.
+- **Variabilidad**: la experiencia se adapta a cada casa y usuario dependiendo de la necesidad del mueble y ajustandose a su hogar.
+- **Transcodificación**: el espacio físico de nuestra casa se transforma en entorno interactivo digital.
 
 ### Imagen ilustrativa  
 ![IKEA Place](./ikea.jpg)
@@ -102,25 +103,10 @@ Esta es, quizá, la mayor aportación del software contemporáneo: **hacerse inv
 
 ## Bibliografía y recursos
 
-- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
-- IKEA (s.f.). *IKEA Place App*. Recuperado de: https://www.ikea.com/es/es/customer-service/mobile-apps/  
-- Amazon (s.f.). *Amazon Go Stores*. Recuperado de: https://www.amazon.com/b?node=16008589011  
-- The Verge (2018). *Amazon Go review*. Recuperado de: https://www.theverge.com/2018/1/22/16920846/amazon-go-store-seattle-review  
-- YouTube (2017). *Introducing Amazon Go*. https://www.youtube.com/watch?v=NrmMk1Myrxc  
-- YouTube (2017). *How IKEA Place Works*. https://www.youtube.com/watch?v=ykYDnzJ7K5s  
+- Manovich, L. (2013). *El software toma el mando*.  
+- IKEA (s.f.). *en.actualidadgadget.com*. Recuperado de: https://en.actualidadgadget.com/the-new-generation-of-the-ikea-place-app-is-now-available/
+- Amazon (s.f.). *bench.epicnpoc.com*. Recuperado de: https://bench.epicnpoc.com/amazon-go/ 
+- YouTube IKEA(2017). *Introducing Amazon Go*. https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista  
+- YouTube ElEconomista(2018). *Saluda a IKEA Place*. https://www.youtube.com/watch?v=UudV1VdFtuQ&ab_channel=IKEA
 
----
-
-## Declaración sobre el uso de IA
-
-Este trabajo ha sido realizado con apoyo parcial de inteligencia artificial (ChatGPT, OpenAI) en las siguientes tareas:
-
-- Estructura del documento y organización de contenidos  
-- Redacción preliminar basada en ideas proporcionadas por el autor/a  
-- Revisión estilística y gramatical  
-- Propuesta de ejemplos, recursos multimedia y referencias  
-
-Toda la información ha sido verificada, adaptada y revisada por el autor/a, conforme a los criterios de evaluación del curso.  
-Referencia:  
-OpenAI. (2024). *Guía para citar contenido generado con IA*. UOC. https://openaccess.uoc.edu/bitstream/10609/148823/2/U2_17_GuiaCitarIA_ESP.pdf
 
