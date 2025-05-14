@@ -48,7 +48,7 @@ Con las lentes de Manovich, IKEA Place muestra:
 - **Transcodificación**: el espacio físico se transforma en entorno interactivo digital.
 
 ### Imagen ilustrativa  
-![IKEA Place](./IKEA-Place-app.jpg)
+![IKEA Place](./ikea.jpg)
 
 ### Video explicativo  
 [🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=ykYDnzJ7K5s)
@@ -81,7 +81,7 @@ Amazon Go representa un cambio radical en la forma de comprar. Se trata de tiend
 - **Transcodificación**: el acto físico de comprar se convierte en datos procesados en la nube.
 
 ### Imagen ilustrativa  
-![Amazon Go](https://cdn.vox-cdn.com/thumbor/mGFxgkKWBHyP6kTIoH4ZtfgVVds=/0x0:2040x1360/920x613/filters:focal(857x517:1183x843):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58568723/akrales_181127_3093_0054.0.jpg)
+![IKEA Place](./amazon.jpg)
 
 ### Video demostrativo  
 [🔗 Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=NrmMk1Myrxc)
