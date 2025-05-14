@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 
-**Autor**: Armando José Gutiérres Gutiérrez
+**Autor**: Armando Gutiérrez
 
 **Asignatura**: Cultura Ditial
 
