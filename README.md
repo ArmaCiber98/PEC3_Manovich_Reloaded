@@ -1,13 +1,16 @@
 # PEC3_Manovich_Reloaded
 
-**Autor**: Armando José Gutiérres Gutiérrez  
+**Autor**: Armando José Gutiérres Gutiérrez
+
 **Asignatura**: Cultura Ditial
+
 **Grado**: Multimedia
+
 ---
 
 ## Introducción
 
-En la actualidad, hablar de software no es solo hablar de herramientas. Es hablar de una forma de entender y transformar el mundo. Lev Manovich (2013), en su obra *El software toma el mando*, ya lo anticipaba: el software no solo media nuestras experiencias, sino que también **las moldea, las automatiza y las redefine**. Lo que antes era un proceso físico o humano, hoy puede estar guiado por algoritmos, cámaras, sensores, interfaces y realidades mezcladas.
+En la actualidad, hablar de software no es solo hablar de herramientas. Es hablar de una forma de entender y transformar el mundo. Lev Manovich, en su obra *El software toma el mando*, ya lo anticipaba: el software no solo media nuestras experiencias, sino que también **las moldea, las automatiza y las redefine**. Lo que antes era un proceso físico o humano, hoy puede estar guiado por algoritmos, cámaras, sensores, interfaces y realidades mezcladas.
 
 En esta práctica, se propone **profundizar en el concepto de hibridación**, entendido como la fusión entre diferentes medios, disciplinas y tecnologías para crear nuevas formas de experiencia cultural y social. El objetivo es identificar dos ejemplos contemporáneos de hibridación que no aparecen en la obra de Manovich, pero que perfectamente podrían incluirse en una segunda edición de su libro.
 
