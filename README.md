@@ -18,10 +18,10 @@ Este ensayo está redactado con un enfoque narrativo y personal, siguiendo el es
 
 He seleccionado dos casos que considero especialmente significativos:
 
-- **IKEA Place**, una app que convierte tu casa en un showroom digital gracias a la realidad aumentada.
-- **Amazon Go**, un concepto revolucionario de tienda sin cajeros, impulsada por sensores, visión artificial y aprendizaje automático en el servicio.
+- **IKEA Place**, una app que convierte tu casa en un showroom digital gracias a la realidad aumentada y podemos probar muebles de manera virtual en nuestro hogas.
+- **Amazon Go**, un concepto revolucionario de tienda sin cajeros, impulsada por sensores, visión artificial y aprendizaje automático en el servicio totalmente autonomo.
 
-Ambos casos permiten analizar cómo el software redefine la interacción entre lo físico y lo digital, y cómo la experiencia cotidiana se vuelve más fluida, automática e invisible de ver. Este trabajo no solo pretende describir estos ejemplos, sino también **reflexionar críticamente sobre su impacto**, sus implicaciones sociales y su relación con los principios del software definidos por Manovich.
+Ambos casos permiten analizar cómo el software redefine la interacción entre lo físico y lo digital, y cómo la experiencia cotidiana se vuelve más fluida, automática e invisible de ver.
 
 ---
 
@@ -48,10 +48,10 @@ Con las lentes de Manovich, IKEA Place muestra:
 - **Variabilidad**: la experiencia se adapta a cada casa y usuario dependiendo de la necesidad del mueble y ajustandose a su hogar.
 - **Transcodificación**: el espacio físico de nuestra casa se transforma en entorno interactivo digital.
 
-### Imagen ilustrativa  
+### Imagen ilustrativa:  
 ![IKEA Place](./ikea.jpg)
 
-### Video explicativo  
+### Video donde se explica como funciona:   
 [🔗 Ver cómo funciona IKEA Place](https://www.youtube.com/watch?v=UudV1VdFtuQ&ab_channel=IKEA)
 
 ### Reflexión
@@ -87,10 +87,10 @@ Amazon Go representa un cambio radical en la forma de comprar. Se trata de tiend
 - **Variabilidad**: el sistema responde de forma personalizada.
 - **Transcodificación**: el acto físico de comprar se convierte en datos procesados en la nube.
 
-### Imagen ilustrativa  
+### Imagen ilustrativa:  
 ![IKEA Place](./amazon.jpg)
 
-### Video demostrativo  
+### Video donde se explica como funciona:  
 [🔗 Ver Cómo funciona una tienda Amazon Go](https://www.youtube.com/watch?v=g_HpWmKqfWU&ab_channel=ElEconomista)
 
 ### Reflexión
