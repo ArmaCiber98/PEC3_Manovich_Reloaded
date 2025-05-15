@@ -2,13 +2,15 @@
 
 **Autor**: Armando Gutiérrez
 
-**Asignatura**: Cultura Ditial
+**Asignatura**: Cultura Digital
 
 **Grado**: Multimedia
 
+**Grado**: 15/052025
+
 ---
 
-## Introducción
+## Planteamiento
 
 En la actualidad, hablar de software no es solo hablar de herramientas o tencologia. Es hablar de una forma de entender y transformar nuestro mundo. Lev Manovich, en su obra *El software toma el mando*, ya lo anticipaba: el software no solo media nuestras experiencias, sino que también **las moldea, las automatiza y las redefine**. Lo que antes era un proceso físico o humano, hoy puede estar guiado por algoritmos, cámaras, sensores, interfaces y realidades mezcladas que nos facilitan en muchos de los casos nuestras vidas.
 
@@ -25,7 +27,7 @@ Ambos casos permiten analizar cómo el software redefine la interacción entre l
 
 ---
 
-## Caso 1: IKEA Place – Tu casa como probador virtual desde la APP
+## Re-descubriendo la hibridacion: Caso 1 IKEA Place – Tu casa como probador virtual desde la APP
 
 ### ¿Qué es?
 
@@ -66,7 +68,7 @@ Sin embargo, también podríamos cuestionar si esta hiperpersonalización no nos
 
 ---
 
-## Caso 2: Amazon Go – El supermercado sin cajas y sin pausas
+## Re-descubriendo la hibridacion: Caso 2 Amazon Go – El supermercado sin cajas y sin pausas
 
 ### ¿Qué es?
 
